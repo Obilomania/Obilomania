@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGPAGIpdvBlcw/profile-displaybackgroundimage-shrink_350_1400/0/1659396213612?e=1665014400&v=beta&t=cJV5vRoQ1u-l29DdH4Jw-uvIns2uPkP8axLKI6TGuzI)](https://portfolio-website-8808d.firebaseapp.com/)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGrPQz7U7h07A/profile-displaybackgroundimage-shrink_200_800/0/1659448539076?e=1665619200&v=beta&t=wq7ZGWCjO6zYJ6qtQNb5TGsg3K-LnZkyytvrp7xctl8)](https://portfolio-website-8808d.firebaseapp.com/)
 <h1 align="center">I am Obinna Ishmael Iloanya</h1>
 <h3 align="center">I am Self Taught Passionate and skilled Web Developer From Nigeria</h3>
 
