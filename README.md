@@ -8,9 +8,8 @@
 
 - 🌱 I’m currently learning **Everyday**
 
-// - 👨‍💻 Checkout my Portfolio [https://www.obilomania.com/portfolio](https://www.obilomania.com/portfolio)
 
-- 📫 How to reach me **iloanyaobinna@gmail.com**
+- 📫 How to reach me **obilomania@gmail.com**
 
 - ⚡ Fun fact **I am Also a music producer & a sound Engineer**
 
