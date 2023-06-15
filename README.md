@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Everyday**
 
-- 👨‍💻 Checkout my Portfolio [https://www.obilomania.com/portfolio](https://www.obilomania.com/portfolio)
+// - 👨‍💻 Checkout my Portfolio [https://www.obilomania.com/portfolio](https://www.obilomania.com/portfolio)
 
 - 📫 How to reach me **iloanyaobinna@gmail.com**
 
